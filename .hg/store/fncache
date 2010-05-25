@@ -9183,3 +9183,7 @@ data/src/mangosd/CMakeLists.txt.i
 data/sql/updates/3.2.2a_old/7117_world_trinity_string.sql.i
 data/sql/updates/8292_world_creature.sql.i
 data/sql/updates/8293_world_spell_dbc.sql.i
+data/src/scripts/eastern_kingdoms/deadmines/instance_deadmines.cpp.i
+data/src/game/SpellEffects.cpp.i
+data/src/game/SpellEffects.cpp.d
+data/src/scripts/eastern_kingdoms/deadmines/deadmines.h.i
