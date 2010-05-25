@@ -1,0 +1,7 @@
+INSTALL(FILES
+characters_jail.sql
+world_command_Deutsch.sql
+world_command_English.sql
+world_command_Francais.sql
+world_trinity_string.sql
+DESTINATION share/trinity/sql/TrinityJail)

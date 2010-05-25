@@ -1,0 +1,10 @@
+add_subdirectory(TrinityJail)
+add_subdirectory(WintergraspPVPEvent)
+add_subdirectory(updates)
+add_subdirectory(FULL)
+
+########### install files ###############
+
+FILE(GLOB _SQL *.sql)
+
+install(FILES ${_SQL} DESTINATION share/trinity/sql)
